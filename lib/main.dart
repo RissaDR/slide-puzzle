@@ -166,7 +166,7 @@ class _ButtonPressState extends State<ButtonPress> {
   ];
 
   void htmlOpenLink() {
-    String url = "https://github.com/RissaDR/slide-puzzle/tree/web/";
+    String url = "https://rissadr.github.io/projects/flutter/slidepuzzle/moreaboutthis.html";
     html.window.open(url, "_blank");
   } 
 
